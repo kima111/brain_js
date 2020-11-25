@@ -14,7 +14,7 @@
 // console.log(`Prob: ${output}`)
 
 const brain = require('brain.js');
-const data = require('./data.json');
+const data = require('./data2.json');
 const network = new brain.recurrent.LSTM();
 const trainingData = data.map(item=>({
     input: item.text,
@@ -25,7 +25,7 @@ network.train(trainingData, {
     iterations: 2000
 });
 
-const output = network.run('there are some bugs');
+const output = network.run('lets update the design');
 
 console.log(`Category: ${output}`);
 

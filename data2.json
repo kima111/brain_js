@@ -1,0 +1,82 @@
+[
+    {
+      "text": "I'm working on css",
+      "category": "front-end"
+    },
+    {
+      "text": "I would use React",
+      "category": "front-end"
+    },
+    {
+      "text": "the Mongo DB is down",
+      "category": "back-end"
+    },
+    {
+      "text": "Let's use Express for that",
+      "category": "back-end"
+    },
+    {
+      "text": "Update the div",
+      "category": "front-end"
+    },
+    {
+      "text": "HTML",
+      "category": "front-end"
+    },
+    {
+      "text": "Node",
+      "category": "back-end"
+    },
+    {
+      "text": "Node.js",
+      "category": "back-end"
+    },
+    {
+      "text": "Mongo",
+      "category": "back-end"
+    },
+    {
+      "text": "React",
+      "category": "front-end"
+    },
+    {
+      "text": "I found a bug in the HTML",
+      "category": "front-end"
+    },
+    {
+      "text": "There was an error on the server",
+      "category": "back-end"
+    },
+    {
+      "text": "I tested the client",
+      "category": "front-end"
+    },
+    {
+      "text": "Mongodb",
+      "category": "back-end"
+    },
+    {
+      "text": "Markup",
+      "category": "front-end"
+    },
+    {
+      "text": "The express routes are broken",
+      "category": "back-end"
+    },
+    {
+      "text": "Server",
+      "category": "back-end"
+    },
+    {
+        "text": "MySQL",
+        "category": "back-end"
+    },
+    {
+        "text": "I like updating the design",
+        "category": "front-end"
+    },
+    {
+        "text": "lets work on the design",
+        "category": "front-end"
+    }
+  ]
